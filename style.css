@@ -21,7 +21,7 @@ body {
     justify-content: center;
     align-items: center;
     color: #fff;
-    transition: all 0.5s;
+    transition: 0.5s;
 }
 
 .loader:hover {
